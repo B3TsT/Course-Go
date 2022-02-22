@@ -1,4 +1,6 @@
 # Course-Go Spanish
+![Go](https://img.shields.io/badge/Goland-3776AB?style=for-the-badge&logo=Go&logoColor=white&labelColor=353056)
+
 - Become a professional Go programmer Data typesYou will master all the key concepts of Go from scratch. 
 - No prior knowledge of Go is required. 
 - Learn to work with variables, data types and operators Learn to work with control structures, if – else, switch, for, etc. 
